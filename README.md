@@ -2,9 +2,15 @@
 
 Vous trouverez sur cette page une liste d'adresses utilises pour votre passage sur Toulouse:
 
-[ToC]
+* [Bars et restaurants](#bars-et-restaurants)
+* [Sorties](#sorties)
+** [Culture](#culture)
+** [Activités](#activités)
+* [Commerces](#commerces)
+* [Transports](#tranports)
+* [Santé](#santé)
 
-## Bars - Restaurants
+## Bars et Restaurants
 
 ```geojson
 {
@@ -1325,14 +1331,3 @@ Vous trouverez sur cette page une liste d'adresses utilises pour votre passage s
     ]
 }
 ```
-
-## Transports
-
-```geojson
-```
-
-## Santé
-
-```geojson
-```
-
