@@ -1276,61 +1276,7 @@ Vous trouverez sur cette page une liste d'adresses utilises pour votre passage s
 
 ## Santé
 
-```geojson
-{
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Dentiste",
-                "cmt": "Amenity:: healthcare:dentist",
-                "type": "airbnb - santé",
-                "time": "2022-10-22T19:10:42Z"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.4538753,
-                    43.6033335
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Laboratoire de Biologie Médicale Biolab Avenir La Halle",
-                "cmt": "Amenity:Laboratoire de Biologie Medicale Biolab Avenir La Halle: healthcare:laboratory",
-                "type": "airbnb - santé",
-                "time": "2022-10-22T19:09:45Z"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.4547122,
-                    43.6003384
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Pharmacie Colombette",
-                "cmt": "Amenity:Pharmacie Colombette: healthcare:pharmacy",
-                "type": "airbnb - santé",
-                "time": "2022-10-22T19:12:06Z"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.4544225,
-                    43.6046037
-                ]
-            }
-        }
-    ]
-}
-```
+<script src="https://embed.github.com/view/geojson/alx/airbnb_saint-aubin/main/geojson/sante.geojson"></script>
 
 * 🤕 Pharmacie Colombette [:earth_africa: gmaps](http://www.google.com/maps/place/43.6046037,1.4544225){:target="_blank"} [:earth_africa: osm](https://www.openstreetmap.org/?mlat=43.6046037&mlon=1.4544225#map=17/43.6046037/1.4544225){:target="_blank"}
 * 🦷 Dr Karim Nasr, dentiste [📆 doctolib](https://www.doctolib.fr/dentiste/toulouse/karim-nasr){:target="_blank"} [:earth_africa: gmaps](http://www.google.com/maps/place/1.4538753,43.6033335){:target="_blank"} [:earth_africa: osm](http://www.openstreetmap.org/#map=9/1.4538753/43.6033335){:target="_blank"}
