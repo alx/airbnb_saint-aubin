@@ -1332,6 +1332,6 @@ Vous trouverez sur cette page une liste d'adresses utilises pour votre passage s
 }
 ```
 
-* Pharmacie Colombette [:earth_africa: gmaps](http://www.google.com/maps/place/1.4544225/43.6046037) [:earth_africa: osm](http://www.openstreetmap.org/#map=9/1.4544225/43.6046037)
-* Dentiste [:earth_africa: gmaps](http://www.google.com/maps/place/1.4538753,43.6033335) [:earth_africa: osm](http://www.openstreetmap.org/#map=9/1.4538753/43.6033335)
-* Laboratoire de Biologie Médicale Biolab [:earth_africa: gmaps](http://www.google.com/maps/place/1.4547122/43.6003384)  [:earth_africa: osm](http://www.openstreetmap.org/#map=9/1.4547122/43.6003384)
+* 🤕 Pharmacie Colombette [:earth_africa: gmaps](http://www.google.com/maps/place/1.4544225,43.6046037) [:earth_africa: osm](http://www.openstreetmap.org/#map=9/1.4544225/43.6046037)
+* 🦷 Dr Karim Nasr, Dentiste [doctolib](https://www.doctolib.fr/dentiste/toulouse/karim-nasr) [:earth_africa: gmaps](http://www.google.com/maps/place/1.4538753,43.6033335) [:earth_africa: osm](http://www.openstreetmap.org/#map=9/1.4538753/43.6033335)
+* 🥼 Laboratoire de Biologie Médicale Biolab [:earth_africa: gmaps](http://www.google.com/maps/place/1.4547122,43.6003384)  [:earth_africa: osm](http://www.openstreetmap.org/#map=9/1.4547122/43.6003384)
