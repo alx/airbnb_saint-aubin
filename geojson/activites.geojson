@@ -1,0 +1,36 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Au rendez-vous des Yogis, Hatha Yoga",
+                "type": "airbnb - sortie/activité",
+                "time": "2022-10-22T18:58:16Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4540255,
+                    43.605334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Solo Escalade",
+                "cmt": "Amenity:Solo Escalade: sport:sports_centre",
+                "type": "airbnb - sortie/activité",
+                "time": "2022-10-22T19:25:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4205033,
+                    43.6199842
+                ]
+            }
+        }
+    ]
+}

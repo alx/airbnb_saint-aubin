@@ -1,0 +1,472 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "American Cosmograph",
+                "cmt": "Amenity:American Cosmograph: entertainment:cinema",
+                "type": "airbnb - sortie/culture",
+                "time": "2022-10-22T19:29:51Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4467782,
+                    43.6039861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Basilique Saint-Sernin",
+                "cmt": "Amenity:Basilique Saint-Sernin: tourism:place_of_worship",
+                "type": "airbnb - sortie/culture",
+                "time": "2022-10-22T19:29:05Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4420789,
+                    43.6084803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bibliothèque de quartier - Duranti",
+                "cmt": "Amenity:Bibliotheque de quartier - Duranti: education:library",
+                "type": "airbnb - sortie/culture",
+                "time": "2022-11-09T19:30:32Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4468479,
+                    43.6033684,
+                    144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Capitole - Mairie de Toulouse",
+                "cmt": "Amenity:Capitole de Toulouse: tourism:attraction",
+                "type": "airbnb - sortie/culture",
+                "time": "2022-10-22T19:29:30Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.444155,
+                    43.6041414,
+                    141.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gaumont Wilson",
+                "cmt": "Amenity:Gaumont Wilson: entertainment:cinema",
+                "type": "airbnb - sortie/culture",
+                "time": "2022-11-09T19:30:17Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4479154,
+                    43.6045454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Halle de La Machine",
+                "cmt": "Amenity:Halle de La Machine: tourism:museum",
+                "type": "airbnb - sortie/culture",
+                "time": "2022-10-22T19:16:18Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.478101,
+                    43.5727621,
+                    146.8
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jardin des Plantes",
+                "cmt": "Amenity:Jardin des Plantes: entertainment:park",
+                "type": "airbnb - sortie/culture",
+                "time": "2022-10-22T19:05:58Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4513808,
+                    43.5927899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jardin Japonais",
+                "cmt": "Amenity:Jardin Japonais: entertainment:garden",
+                "desc": "https://fr.m.wikipedia.org/wiki/Jardin_japonais_de_Toulouse\n\nRisque de fermeture exceptionnelle si vent soufflant à partir de 60 km/h.\n\n\nLundi\nDe 08:00 à 18:00\n\nMardi\nDe 08:00 à 18:00\n\nMercredi\nDe 08:00 à 18:00\n\nJeudi\nDe 08:00 à 18:00\n\nVendredi\nDe 08:00 à 18:00\n\nSamedi\nDe 08:00 à 18:00\n\nDimanche\nDe 08:00 à 18:00\n\nRisque de fermeture exceptionnelle si vent soufflant à partir de 60 km/h.\nVoir les horaires\nLundiDe 08:00 à 18:00\nMardiDe 08:00 à 18:00\nMercrediDe 08:00 à 18:00\nJeudiDe 08:00 à 18:00\nVendrediDe 08:00 à 18:00\nSamediDe 08:00 à 18:00\nDimancheDe 08:00 à 18:00",
+                "type": "airbnb - sortie/culture",
+                "time": "2022-10-22T19:28:43Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4320904,
+                    43.6119255,
+                    136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jardin Monplaisir",
+                "cmt": "Amenity:Jardin Monplaisir: entertainment:park",
+                "type": "airbnb - sortie/culture",
+                "time": "2022-10-22T19:30:37Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4593095,
+                    43.5901285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "La Halle aux Grains",
+                "cmt": "Amenity:La Halle aux Grains: entertainment:theatre",
+                "type": "airbnb - sortie/culture",
+                "time": "2022-10-22T19:22:32Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4545083,
+                    43.59988,
+                    148.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Le Bikini",
+                "cmt": "Amenity:Le Bikini: entertainment:theatre",
+                "type": "airbnb - sortie/culture",
+                "time": "2022-11-09T19:47:32Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4856756,
+                    43.5479493,
+                    145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Le Minotaure",
+                "cmt": "Amenity:Le Minotaure: tourism:artwork",
+                "type": "airbnb - sortie/culture",
+                "time": "2022-10-22T19:16:47Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4781117,
+                    43.5723773,
+                    146.8
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Les Abattoirs",
+                "cmt": "Amenity:Les Abattoirs: tourism:museum",
+                "type": "airbnb - sortie/culture",
+                "time": "2022-10-22T19:19:44Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4295959,
+                    43.6009211,
+                    130
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Les Jardins de la Ligne",
+                "cmt": "Amenity:Les Jardins de la Ligne: entertainment:park",
+                "type": "airbnb - sortie/culture",
+                "time": "2022-10-22T19:16:38Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.475687,
+                    43.5733218,
+                    147.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Les Ludotines, ludothèque",
+                "cmt": "Amenity:Saint-Aubin: education:kindergarten",
+                "type": "airbnb - sortie/culture",
+                "time": "2022-10-22T19:21:51Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4532208,
+                    43.6038113,
+                    144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Manège Carré Sénart",
+                "cmt": "Amenity:Manege Carre Senart: tourism:attraction_carousel",
+                "type": "airbnb - sortie/culture",
+                "time": "2022-10-22T19:16:30Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4762396,
+                    43.5736055,
+                    147.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Médiathèque José Cabanis",
+                "cmt": "Amenity:Mediatheque Jose Cabanis: education:library",
+                "type": "airbnb - sortie/culture",
+                "time": "2022-10-22T18:49:28Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4557958,
+                    43.6101582,
+                    147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mix'art Myrys",
+                "cmt": "Amenity:Mix'art Myrys: man_made:building",
+                "type": "airbnb - sortie/culture",
+                "time": "2022-10-22T19:24:53Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4205247,
+                    43.6187454,
+                    131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Muséum d'Histoire Naturelle",
+                "cmt": "Amenity:Museum d'Histoire Naturelle: tourism:museum",
+                "type": "airbnb - sortie/culture",
+                "time": "2022-10-22T19:06:18Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4495677,
+                    43.593396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ombres Blanches",
+                "cmt": "Amenity:Ombres Blanches: shop:books",
+                "type": "airbnb - sortie/culture",
+                "time": "2022-10-22T18:54:57Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4425081,
+                    43.6030421,
+                    144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Parc de l'Observatoire de Jolimont",
+                "cmt": "Amenity:Parc de l'Observatoire de Jolimont: entertainment:park",
+                "type": "airbnb - sortie/culture",
+                "time": "2022-10-22T19:04:18Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4627749,
+                    43.6120847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Parc Félix Lavit",
+                "cmt": "Amenity:Parc Felix Lavit: entertainment:park",
+                "type": "airbnb - sortie/culture",
+                "time": "2022-10-22T19:04:06Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4604682,
+                    43.6128693,
+                    171.8
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Parc Raymond VI",
+                "cmt": "Amenity:Parc Raymond VI: entertainment:park",
+                "type": "airbnb - sortie/culture",
+                "time": "2022-10-22T19:19:39Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4300144,
+                    43.6001481,
+                    134.8
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Point de vue",
+                "cmt": "Amenity:: tourism:viewpoint",
+                "type": "airbnb - sortie/culture",
+                "time": "2022-10-22T19:03:39Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4618415,
+                    43.6113972,
+                    188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Prairie des Filtres",
+                "cmt": "Amenity:Prairie des Filtres: entertainment:park",
+                "type": "airbnb - sortie/culture",
+                "time": "2022-10-22T19:19:21Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4368862,
+                    43.5953036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Promenade Henri-Martin",
+                "type": "airbnb - sortie/culture",
+                "time": "2022-11-09T19:32:01Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4371673,
+                    43.6021876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Quai des savoirs",
+                "cmt": "Amenity:Quai des savoirs: tourism:museum",
+                "type": "airbnb - sortie/culture",
+                "time": "2022-10-22T19:06:26Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4510804,
+                    43.5945227,
+                    144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Théâtre du Grand Rond",
+                "cmt": "Amenity:Theatre du Grand Rond: entertainment:theatre",
+                "type": "airbnb - sortie/culture",
+                "time": "2022-10-22T19:06:51Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4537734,
+                    43.5986835,
+                    146.8
+                ]
+            }
+        }
+    ]
+}

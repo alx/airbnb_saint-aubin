@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd~ 4.1.11" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>favourites</name>
+  </metadata>
+  <wpt lat="43.6291291" lon="1.4828056">
+    <time>2022-10-22T19:27:33Z</time>
+    <name>Balma-Gramont</name>
+    <type>airbnb - transport</type>
+    <cmt>TransportStop:Balma-Gramont</cmt>
+    <extensions>
+      <osmand:address>Balma-Gramont</osmand:address>
+      <osmand:icon>subway_station</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6045649" lon="1.4536554">
+    <time>2022-10-22T18:58:02Z</time>
+    <name>Colombette (40)</name>
+    <type>airbnb - transport</type>
+    <cmt>Amenity:Colombette: service:bicycle_rental</cmt>
+    <extensions>
+      <osmand:address>Rue de la Colombette (Place Occitane) 39, Toulouse</osmand:address>
+      <osmand:icon>amenity_bicycle_rental</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6016204" lon="1.4561498">
+    <ele>149</ele>
+    <time>2022-10-22T19:25:52Z</time>
+    <name>Dauriac - Escande (42)</name>
+    <type>airbnb - transport</type>
+    <cmt>Amenity:Dauriac - Escande: service:bicycle_rental</cmt>
+    <extensions>
+      <osmand:address>Rue Sylvain Dauriac (Guilheméry), Toulouse</osmand:address>
+      <osmand:icon>amenity_bicycle_rental</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6007347" lon="1.4521372">
+    <time>2022-10-22T18:49:59Z</time>
+    <name>François Verdier</name>
+    <type>airbnb - transport</type>
+    <cmt>TransportStop:Francois Verdier</cmt>
+    <extensions>
+      <osmand:address>François Verdier</osmand:address>
+      <osmand:icon>route_railway_ref</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6068333" lon="1.4580488">
+    <ele>155.2</ele>
+    <time>2022-10-22T19:26:27Z</time>
+    <name>Général Compans (176)</name>
+    <type>airbnb - transport</type>
+    <cmt>Amenity:General Compans: service:bicycle_rental</cmt>
+    <extensions>
+      <osmand:address>Rue du Général Jean Compans (Guilheméry), Bonhoure</osmand:address>
+      <osmand:icon>amenity_bicycle_rental</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6019933" lon="1.4564502">
+    <time>2022-10-22T19:17:43Z</time>
+    <name>Guilhemery</name>
+    <type>airbnb - transport</type>
+    <cmt>TransportStop:Guilhemery</cmt>
+    <extensions>
+      <osmand:address>Guilhemery</osmand:address>
+      <osmand:icon>route_bus_ref</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6153044" lon="1.4633811">
+    <ele>169.5</ele>
+    <time>2022-10-22T19:27:17Z</time>
+    <name>Jolimont</name>
+    <type>airbnb - transport</type>
+    <cmt>Amenity:Jolimont: man_made:surveillance</cmt>
+    <extensions>
+      <osmand:address>Esplanade Jean Cassou, Jolimont</osmand:address>
+      <osmand:icon>subway_station</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.5735666" lon="1.4743352">
+    <ele>146.2</ele>
+    <time>2022-11-09T19:34:31Z</time>
+    <name>Latécoère</name>
+    <type>airbnb - transport</type>
+    <cmt>TransportStop:Latecoere</cmt>
+    <extensions>
+      <osmand:address>Latécoère</osmand:address>
+      <osmand:icon>tourism_museum</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6108146" lon="1.4554363">
+    <ele>147</ele>
+    <time>2022-10-22T19:26:40Z</time>
+    <name>Marengo-SNCF</name>
+    <type>airbnb - transport</type>
+    <cmt>TransportStop:Marengo-SNCF</cmt>
+    <extensions>
+      <osmand:address>Marengo-SNCF</osmand:address>
+      <osmand:icon>subway_station</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6108185" lon="1.4551252">
+    <time>2022-11-09T19:35:49Z</time>
+    <name>Marengo-SNCF (1)</name>
+    <type>airbnb - transport</type>
+    <cmt>TransportStop:Marengo-SNCF</cmt>
+    <extensions>
+      <osmand:address>Marengo-SNCF</osmand:address>
+      <osmand:icon>subway_station</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6110516" lon="1.4534569">
+    <ele>145</ele>
+    <time>2022-10-22T19:28:16Z</time>
+    <name>Matabiau Gare SNCF</name>
+    <type>airbnb - transport</type>
+    <cmt>TransportStop:Matabiau Gare SNCF</cmt>
+    <extensions>
+      <osmand:address>Matabiau Gare SNCF</osmand:address>
+      <osmand:icon>shop_mall</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.606208" lon="1.454916">
+    <ele>144.5</ele>
+    <time>2022-10-22T19:26:13Z</time>
+    <name>Peri - Mercadier (64)</name>
+    <type>airbnb - transport</type>
+    <cmt>Amenity:Peri - Mercadier: service:bicycle_rental</cmt>
+    <extensions>
+      <osmand:address>Rue Gabriel Péri (Place Occitane) 30, Toulouse</osmand:address>
+      <osmand:icon>amenity_bicycle_rental</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6074509" lon="1.4542508">
+    <ele>143.5</ele>
+    <time>2022-10-22T18:49:17Z</time>
+    <name>Piscine Leo Lagrange (63)</name>
+    <type>airbnb - transport</type>
+    <cmt>Amenity:Piscine Leo Lagrange: service:bicycle_rental</cmt>
+    <extensions>
+      <osmand:address>Place Riquet 3, Toulouse</osmand:address>
+      <osmand:icon>amenity_bicycle_rental</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6027003" lon="1.4544278">
+    <ele>147.2</ele>
+    <time>2022-11-09T19:42:41Z</time>
+    <name>Saint-Aubin - Camichel (41)</name>
+    <type>airbnb - transport</type>
+    <cmt>Amenity:Saint-Aubin - Camichel: service:bicycle_rental</cmt>
+    <extensions>
+      <osmand:address>Rue Charles Camichel (Guilheméry) 1, Toulouse</osmand:address>
+      <osmand:icon>amenity_bicycle_rental</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.61358" lon="1.4522338">
+    <time>2022-10-22T19:28:05Z</time>
+    <name>Toulouse Gare Routière</name>
+    <type>airbnb - transport</type>
+    <cmt>TransportStop:Toulouse Gare Routiere</cmt>
+    <extensions>
+      <osmand:address>Toulouse Gare Routière</osmand:address>
+      <osmand:icon>shop_mall</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+</gpx>

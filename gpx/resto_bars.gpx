@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd~ 4.1.11" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>favourites</name>
+  </metadata>
+  <wpt lat="43.6028518" lon="1.4541757">
+    <ele>147</ele>
+    <time>2022-10-22T19:10:21Z</time>
+    <name>Au Poêle de la Bête</name>
+    <type>airbnb - resto &amp; bars</type>
+    <cmt>Amenity:Au Poele de la Bete: sustenance:bar</cmt>
+    <extensions>
+      <osmand:address>Rue d'Aubuisson 56, Toulouse</osmand:address>
+      <osmand:icon>amenity_bar</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.600183" lon="1.4532316">
+    <ele>148</ele>
+    <time>2022-10-22T19:08:18Z</time>
+    <name>Banh mi</name>
+    <type>airbnb - resto &amp; bars</type>
+    <cmt>Amenity:Banh mi: sustenance:restaurant</cmt>
+    <extensions>
+      <osmand:address>Rue du Pont Guilhemery, Toulouse</osmand:address>
+      <osmand:icon>amenity_restaurant</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6012358" lon="1.4541006">
+    <ele>147</ele>
+    <time>2022-10-22T19:09:59Z</time>
+    <name>Burger' N'Co</name>
+    <type>airbnb - resto &amp; bars</type>
+    <cmt>Amenity:Burger' N'Co: sustenance:restaurant</cmt>
+    <extensions>
+      <osmand:address>Rue Pierre Paul Riquet 20, Toulouse</osmand:address>
+      <osmand:icon>amenity_restaurant</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.5974248" lon="1.4445573">
+    <time>2022-10-22T18:52:39Z</time>
+    <name>Cécile</name>
+    <type>airbnb - resto &amp; bars</type>
+    <cmt>Amenity:Cecile: sustenance:restaurant</cmt>
+    <extensions>
+      <osmand:address>Parking Les Carmes, Les Carmes</osmand:address>
+      <osmand:icon>amenity_restaurant</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6020088" lon="1.4406574">
+    <ele>142.8</ele>
+    <time>2022-10-22T18:53:54Z</time>
+    <name>Chez nous les Libanais</name>
+    <type>airbnb - resto &amp; bars</type>
+    <cmt>Amenity:Chez nous les Libanais: sustenance:restaurant</cmt>
+    <extensions>
+      <osmand:address>Rue Jean Suau (Daurade) 6, Capitole</osmand:address>
+      <osmand:icon>amenity_restaurant</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6071946" lon="1.4537895">
+    <ele>143</ele>
+    <time>2022-10-22T18:51:01Z</time>
+    <name>Hwaban</name>
+    <type>airbnb - resto &amp; bars</type>
+    <cmt>Amenity:Hwaban: sustenance:fast_food</cmt>
+    <extensions>
+      <osmand:address>Place Riquet 1, Toulouse</osmand:address>
+      <osmand:icon>amenity_fast_food</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6048135" lon="1.454916">
+    <time>2022-10-22T19:01:49Z</time>
+    <name>Jifu Fondue Asiatique</name>
+    <type>airbnb - resto &amp; bars</type>
+    <cmt>Amenity:Jifu Fondue Asiatique: sustenance:restaurant</cmt>
+    <extensions>
+      <osmand:address>Rue André Mercadier (Matabiau) 2, Toulouse</osmand:address>
+      <osmand:icon>amenity_restaurant</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6029528" lon="1.4538109">
+    <ele>144.8</ele>
+    <time>2022-10-22T19:10:30Z</time>
+    <name>La Belle Verte</name>
+    <type>airbnb - resto &amp; bars</type>
+    <cmt>Amenity:La Belle Verte: sustenance:restaurant</cmt>
+    <extensions>
+      <osmand:address>Rue d'Aubuisson 50, Toulouse</osmand:address>
+      <osmand:icon>amenity_restaurant</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.5930347" lon="1.4462095">
+    <time>2022-10-22T19:19:07Z</time>
+    <name>La Nouvelle Lune</name>
+    <type>airbnb - resto &amp; bars</type>
+    <cmt>Amenity:La Nouvelle Lune: sustenance:bar</cmt>
+    <extensions>
+      <osmand:address>Rue Alfred Duméril 14, Le Busca</osmand:address>
+      <osmand:icon>amenity_bar</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.597654" lon="1.4445251">
+    <ele>144</ele>
+    <time>2022-10-22T18:53:17Z</time>
+    <name>Loge 24 (24)</name>
+    <type>airbnb - resto &amp; bars</type>
+    <cmt>Amenity:Loge 24: sustenance:restaurant</cmt>
+    <extensions>
+      <osmand:address>Parking Les Carmes, Les Carmes</osmand:address>
+      <osmand:icon>amenity_restaurant</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6044911" lon="1.4511019">
+    <ele>143.2</ele>
+    <time>2022-10-22T18:52:12Z</time>
+    <name>Mazzolina</name>
+    <type>airbnb - resto &amp; bars</type>
+    <cmt>Amenity:Mazzolina: sustenance:fast_food</cmt>
+    <extensions>
+      <osmand:address>Rue de la Colombette (Place Occitane) 14, Toulouse</osmand:address>
+      <osmand:icon>amenity_fast_food</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6009833" lon="1.453886">
+    <time>2022-10-22T19:22:43Z</time>
+    <name>Petit London</name>
+    <type>airbnb - resto &amp; bars</type>
+    <cmt>Amenity:Petit London: sustenance:bar</cmt>
+    <extensions>
+      <osmand:address>Rue Pierre Paul Riquet 7 bis, Toulouse</osmand:address>
+      <osmand:icon>amenity_bar</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.5978987" lon="1.4439082">
+    <time>2022-10-22T18:53:02Z</time>
+    <name>Solides</name>
+    <type>airbnb - resto &amp; bars</type>
+    <cmt>Amenity:Solides: sustenance:restaurant</cmt>
+    <extensions>
+      <osmand:address>Rue des Polinaires 38, Les Carmes</osmand:address>
+      <osmand:icon>amenity_restaurant</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+</gpx>

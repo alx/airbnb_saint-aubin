@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd~ 4.1.11" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>favourites</name>
+  </metadata>
+  <wpt lat="43.6057457" lon="1.4585316">
+    <ele>152.2</ele>
+    <time>2022-10-22T18:48:27Z</time>
+    <name>Boucherie Filhos Jérôme</name>
+    <type>airnnb - commerce</type>
+    <cmt>Amenity:Boucherie Filhos Jerome: shop:butcher</cmt>
+    <extensions>
+      <osmand:address>Rue Saint-Bertrand</osmand:address>
+      <osmand:icon>shop_butcher</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#a71de1</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6045027" lon="1.4538485">
+    <time>2022-10-22T19:11:52Z</time>
+    <name>Boucherie Saint-Aubin</name>
+    <type>airnnb - commerce</type>
+    <cmt>Amenity:Boucherie Saint-Aubin: shop:butcher</cmt>
+    <extensions>
+      <osmand:address>Rue Maury 5, Toulouse</osmand:address>
+      <osmand:icon>shop_butcher</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#a71de1</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6054427" lon="1.4579737">
+    <time>2022-10-22T18:47:58Z</time>
+    <name>Carrefour City</name>
+    <type>airnnb - commerce</type>
+    <cmt>Amenity:Carrefour City: shop:supermarket</cmt>
+    <extensions>
+      <osmand:address>Rue Saint-Paul</osmand:address>
+      <osmand:icon>shop_supermarket</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#a71de1</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6030188" lon="1.4442354">
+    <ele>142</ele>
+    <time>2022-10-22T18:54:27Z</time>
+    <name>Ceci &amp; cela</name>
+    <type>airnnb - commerce</type>
+    <cmt>Amenity:Ceci &amp; cela: shop:convenience</cmt>
+    <extensions>
+      <osmand:address>Rue Baour-Lormian</osmand:address>
+      <osmand:icon>shop_convenience</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#a71de1</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6315442" lon="1.4842433">
+    <ele>138.2</ele>
+    <time>2022-10-22T19:27:39Z</time>
+    <name>Espace Gramont</name>
+    <type>airnnb - commerce</type>
+    <cmt>Amenity:Espace Gramont: shop:mall</cmt>
+    <extensions>
+      <osmand:address>Proche Rue Henri Jansou, Toulouse</osmand:address>
+      <osmand:icon>shop_mall</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#a71de1</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.605097" lon="1.4573354">
+    <ele>149.8</ele>
+    <time>2022-10-22T19:02:16Z</time>
+    <name>La Glanerie</name>
+    <type>airnnb - commerce</type>
+    <cmt>Amenity:La Glanerie: shop:charity</cmt>
+    <extensions>
+      <osmand:address>Avenue de la Gloire (Guilheméry) 2, Bonhoure</osmand:address>
+      <osmand:icon>charity</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#a71de1</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6002646" lon="1.454047">
+    <time>2022-10-22T19:07:33Z</time>
+    <name>La Halle aux Pains</name>
+    <type>airnnb - commerce</type>
+    <cmt>Amenity:La Halle aux Pains: shop:bakery</cmt>
+    <extensions>
+      <osmand:address>Rue du Pont Guilhemery 2, Toulouse</osmand:address>
+      <osmand:icon>shop_bakery</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#a71de1</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6046814" lon="1.4542347">
+    <time>2022-10-22T19:01:28Z</time>
+    <name>La Pétrie</name>
+    <type>airnnb - commerce</type>
+    <cmt>Amenity:La Petrie: shop:bakery</cmt>
+    <extensions>
+      <osmand:address>Rue de la Colombette (Place Occitane) 54, Toulouse</osmand:address>
+      <osmand:icon>shop_bakery</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#a71de1</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6055709" lon="1.4589125">
+    <ele>152.2</ele>
+    <time>2022-10-22T19:02:55Z</time>
+    <name>Le Panier d'Or</name>
+    <type>airnnb - commerce</type>
+    <cmt>Amenity:Le Panier d'Or: shop:greengrocer</cmt>
+    <extensions>
+      <osmand:address>Avenue de la Gloire (Guilheméry) 17, Bonhoure</osmand:address>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#a71de1</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6068838" lon="1.4526308">
+    <time>2022-10-22T18:50:41Z</time>
+    <name>Le Recantou</name>
+    <type>airnnb - commerce</type>
+    <cmt>Amenity:Le Recantou: shop:convenience</cmt>
+    <extensions>
+      <osmand:address>Rue des Sept Troubadours (Place Occitane) 42, Toulouse</osmand:address>
+      <osmand:icon>shop_convenience</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#a71de1</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.5975569" lon="1.455828">
+    <ele>148</ele>
+    <time>2022-10-22T19:30:18Z</time>
+    <name>Lidl</name>
+    <type>airnnb - commerce</type>
+    <cmt>Amenity:Lidl: shop:supermarket</cmt>
+    <extensions>
+      <osmand:address>Port Saint-Sauveur</osmand:address>
+      <osmand:icon>shop_supermarket</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#a71de1</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6036442" lon="1.4562035">
+    <ele>147.2</ele>
+    <time>2022-10-22T19:13:01Z</time>
+    <name>Marché Saint-Aubin</name>
+    <type>airnnb - commerce</type>
+    <cmt>Amenity:Marche Saint-Aubin: shop:marketplace</cmt>
+    <extensions>
+      <osmand:address>Boulevard Jules Michelet (Guilheméry) 14, Toulouse</osmand:address>
+      <osmand:icon>amenity_marketplace</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#a71de1</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6034811" lon="1.4541328">
+    <time>2022-10-22T19:11:22Z</time>
+    <name>Saint Aubin Services Plus</name>
+    <type>airnnb - commerce</type>
+    <cmt>Amenity:Saint Aubin Services Plus: service:copyshop</cmt>
+    <extensions>
+      <osmand:address>Rue Pierre Paul Riquet 37, Toulouse</osmand:address>
+      <osmand:icon>shop_copyshop</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#a71de1</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6045571" lon="1.4542508">
+    <time>2022-10-22T19:12:22Z</time>
+    <name>Spar</name>
+    <type>airnnb - commerce</type>
+    <cmt>Amenity:Spar: shop:supermarket</cmt>
+    <extensions>
+      <osmand:address>Rue de la Colombette (Place Occitane) 47, Toulouse</osmand:address>
+      <osmand:icon>shop_supermarket</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#a71de1</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.5997246" lon="1.4539021">
+    <time>2022-10-22T19:07:50Z</time>
+    <name>Xavier et marie</name>
+    <type>airnnb - commerce</type>
+    <cmt>Amenity:Xavier et marie: shop:cheese</cmt>
+    <extensions>
+      <osmand:address>Rue du Pont Montaudran, Toulouse</osmand:address>
+      <osmand:icon>cheese</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#a71de1</osmand:color>
+    </extensions>
+  </wpt>
+</gpx>

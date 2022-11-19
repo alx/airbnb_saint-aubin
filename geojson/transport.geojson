@@ -1,0 +1,254 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Balma-Gramont",
+                "cmt": "TransportStop:Balma-Gramont",
+                "type": "airbnb - transport",
+                "time": "2022-10-22T19:27:33Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4828056,
+                    43.6291291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Colombette (40)",
+                "cmt": "Amenity:Colombette: service:bicycle_rental",
+                "type": "airbnb - transport",
+                "time": "2022-10-22T18:58:02Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4536554,
+                    43.6045649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dauriac - Escande (42)",
+                "cmt": "Amenity:Dauriac - Escande: service:bicycle_rental",
+                "type": "airbnb - transport",
+                "time": "2022-10-22T19:25:52Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4561498,
+                    43.6016204,
+                    149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "François Verdier",
+                "cmt": "TransportStop:Francois Verdier",
+                "type": "airbnb - transport",
+                "time": "2022-10-22T18:49:59Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4521372,
+                    43.6007347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Général Compans (176)",
+                "cmt": "Amenity:General Compans: service:bicycle_rental",
+                "type": "airbnb - transport",
+                "time": "2022-10-22T19:26:27Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4580488,
+                    43.6068333,
+                    155.2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Guilhemery",
+                "cmt": "TransportStop:Guilhemery",
+                "type": "airbnb - transport",
+                "time": "2022-10-22T19:17:43Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4564502,
+                    43.6019933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jolimont",
+                "cmt": "Amenity:Jolimont: man_made:surveillance",
+                "type": "airbnb - transport",
+                "time": "2022-10-22T19:27:17Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4633811,
+                    43.6153044,
+                    169.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Latécoère",
+                "cmt": "TransportStop:Latecoere",
+                "type": "airbnb - transport",
+                "time": "2022-11-09T19:34:31Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4743352,
+                    43.5735666,
+                    146.2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Marengo-SNCF",
+                "cmt": "TransportStop:Marengo-SNCF",
+                "type": "airbnb - transport",
+                "time": "2022-10-22T19:26:40Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4554363,
+                    43.6108146,
+                    147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Marengo-SNCF (1)",
+                "cmt": "TransportStop:Marengo-SNCF",
+                "type": "airbnb - transport",
+                "time": "2022-11-09T19:35:49Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4551252,
+                    43.6108185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Matabiau Gare SNCF",
+                "cmt": "TransportStop:Matabiau Gare SNCF",
+                "type": "airbnb - transport",
+                "time": "2022-10-22T19:28:16Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4534569,
+                    43.6110516,
+                    145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Peri - Mercadier (64)",
+                "cmt": "Amenity:Peri - Mercadier: service:bicycle_rental",
+                "type": "airbnb - transport",
+                "time": "2022-10-22T19:26:13Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.454916,
+                    43.606208,
+                    144.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Piscine Leo Lagrange (63)",
+                "cmt": "Amenity:Piscine Leo Lagrange: service:bicycle_rental",
+                "type": "airbnb - transport",
+                "time": "2022-10-22T18:49:17Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4542508,
+                    43.6074509,
+                    143.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Saint-Aubin - Camichel (41)",
+                "cmt": "Amenity:Saint-Aubin - Camichel: service:bicycle_rental",
+                "type": "airbnb - transport",
+                "time": "2022-11-09T19:42:41Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4544278,
+                    43.6027003,
+                    147.2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Toulouse Gare Routière",
+                "cmt": "TransportStop:Toulouse Gare Routiere",
+                "type": "airbnb - transport",
+                "time": "2022-10-22T19:28:05Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4522338,
+                    43.61358
+                ]
+            }
+        }
+    ]
+}

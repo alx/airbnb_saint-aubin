@@ -1,0 +1,221 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Au Poêle de la Bête",
+                "cmt": "Amenity:Au Poele de la Bete: sustenance:bar",
+                "type": "airbnb - resto & bars",
+                "time": "2022-10-22T19:10:21Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4541757,
+                    43.6028518,
+                    147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Banh mi",
+                "cmt": "Amenity:Banh mi: sustenance:restaurant",
+                "type": "airbnb - resto & bars",
+                "time": "2022-10-22T19:08:18Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4532316,
+                    43.600183,
+                    148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Burger' N'Co",
+                "cmt": "Amenity:Burger' N'Co: sustenance:restaurant",
+                "type": "airbnb - resto & bars",
+                "time": "2022-10-22T19:09:59Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4541006,
+                    43.6012358,
+                    147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cécile",
+                "cmt": "Amenity:Cecile: sustenance:restaurant",
+                "type": "airbnb - resto & bars",
+                "time": "2022-10-22T18:52:39Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4445573,
+                    43.5974248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chez nous les Libanais",
+                "cmt": "Amenity:Chez nous les Libanais: sustenance:restaurant",
+                "type": "airbnb - resto & bars",
+                "time": "2022-10-22T18:53:54Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4406574,
+                    43.6020088,
+                    142.8
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hwaban",
+                "cmt": "Amenity:Hwaban: sustenance:fast_food",
+                "type": "airbnb - resto & bars",
+                "time": "2022-10-22T18:51:01Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4537895,
+                    43.6071946,
+                    143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jifu Fondue Asiatique",
+                "cmt": "Amenity:Jifu Fondue Asiatique: sustenance:restaurant",
+                "type": "airbnb - resto & bars",
+                "time": "2022-10-22T19:01:49Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.454916,
+                    43.6048135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "La Belle Verte",
+                "cmt": "Amenity:La Belle Verte: sustenance:restaurant",
+                "type": "airbnb - resto & bars",
+                "time": "2022-10-22T19:10:30Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4538109,
+                    43.6029528,
+                    144.8
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "La Nouvelle Lune",
+                "cmt": "Amenity:La Nouvelle Lune: sustenance:bar",
+                "type": "airbnb - resto & bars",
+                "time": "2022-10-22T19:19:07Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4462095,
+                    43.5930347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Loge 24 (24)",
+                "cmt": "Amenity:Loge 24: sustenance:restaurant",
+                "type": "airbnb - resto & bars",
+                "time": "2022-10-22T18:53:17Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4445251,
+                    43.597654,
+                    144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mazzolina",
+                "cmt": "Amenity:Mazzolina: sustenance:fast_food",
+                "type": "airbnb - resto & bars",
+                "time": "2022-10-22T18:52:12Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4511019,
+                    43.6044911,
+                    143.2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Petit London",
+                "cmt": "Amenity:Petit London: sustenance:bar",
+                "type": "airbnb - resto & bars",
+                "time": "2022-10-22T19:22:43Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.453886,
+                    43.6009833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Solides",
+                "cmt": "Amenity:Solides: sustenance:restaurant",
+                "type": "airbnb - resto & bars",
+                "time": "2022-10-22T18:53:02Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4439082,
+                    43.5978987
+                ]
+            }
+        }
+    ]
+}

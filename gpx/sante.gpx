@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd~ 4.1.11" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>favourites</name>
+  </metadata>
+  <wpt lat="43.6033335" lon="1.4538753">
+    <time>2022-10-22T19:10:42Z</time>
+    <name>Dentiste</name>
+    <type>airbnb - santé</type>
+    <cmt>Amenity:: healthcare:dentist</cmt>
+    <extensions>
+      <osmand:address>Rue Pierre Paul Riquet 35, Toulouse</osmand:address>
+      <osmand:icon>amenity_dentist</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6003384" lon="1.4547122">
+    <time>2022-10-22T19:09:45Z</time>
+    <name>Laboratoire de Biologie Médicale Biolab Avenir La Halle</name>
+    <type>airbnb - santé</type>
+    <cmt>Amenity:Laboratoire de Biologie Medicale Biolab Avenir La Halle: healthcare:laboratory</cmt>
+    <extensions>
+      <osmand:address>Rue du Pont Guilhemery 2, Toulouse</osmand:address>
+      <osmand:icon>laboratory</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6046037" lon="1.4544225">
+    <time>2022-10-22T19:12:06Z</time>
+    <name>Pharmacie Colombette</name>
+    <type>airbnb - santé</type>
+    <cmt>Amenity:Pharmacie Colombette: healthcare:pharmacy</cmt>
+    <extensions>
+      <osmand:address>Rue de la Colombette (Place Occitane) 49, Toulouse</osmand:address>
+      <osmand:icon>amenity_pharmacy</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+</gpx>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd~ 4.1.11" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>favourites</name>
+  </metadata>
+  <wpt lat="43.605334" lon="1.4540255">
+    <time>2022-10-22T18:58:16Z</time>
+    <name>Au rendez-vous des Yogis, Hatha Yoga</name>
+    <type>airbnb - sortie/activité</type>
+    <extensions>
+      <osmand:address>Rue Pierre Paul Riquet 67, Toulouse</osmand:address>
+      <osmand:icon>training_yoga</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#a71de1</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6199842" lon="1.4205033">
+    <time>2022-10-22T19:25:00Z</time>
+    <name>Solo Escalade</name>
+    <type>airbnb - sortie/activité</type>
+    <cmt>Amenity:Solo Escalade: sport:sports_centre</cmt>
+    <extensions>
+      <osmand:address>Rue Ferdinand Lassalle, Toulouse</osmand:address>
+      <osmand:icon>leisure_sports_centre</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#a71de1</osmand:color>
+    </extensions>
+  </wpt>
+</gpx>

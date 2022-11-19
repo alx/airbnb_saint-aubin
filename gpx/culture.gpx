@@ -1,0 +1,395 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd~ 4.1.11" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>favourites</name>
+  </metadata>
+  <wpt lat="43.6039861" lon="1.4467782">
+    <time>2022-10-22T19:29:51Z</time>
+    <name>American Cosmograph</name>
+    <type>airbnb - sortie/culture</type>
+    <cmt>Amenity:American Cosmograph: entertainment:cinema</cmt>
+    <extensions>
+      <osmand:address>Rue Montardy (Capitole) 24, Toulouse</osmand:address>
+      <osmand:icon>amenity_cinema</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#a71de1</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6084803" lon="1.4420789">
+    <time>2022-10-22T19:29:05Z</time>
+    <name>Basilique Saint-Sernin</name>
+    <type>airbnb - sortie/culture</type>
+    <cmt>Amenity:Basilique Saint-Sernin: tourism:place_of_worship</cmt>
+    <extensions>
+      <osmand:address>Place Saint-Sernin</osmand:address>
+      <osmand:icon>place_of_worship</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#a71de1</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6033684" lon="1.4468479">
+    <ele>144</ele>
+    <time>2022-11-09T19:30:32Z</time>
+    <name>Bibliothèque de quartier - Duranti</name>
+    <type>airbnb - sortie/culture</type>
+    <cmt>Amenity:Bibliotheque de quartier - Duranti: education:library</cmt>
+    <extensions>
+      <osmand:address>Rue du Lieutenant-Colonel Pélissier</osmand:address>
+      <osmand:icon>amenity_library</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#a71de1</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6041414" lon="1.444155">
+    <ele>141.5</ele>
+    <time>2022-10-22T19:29:30Z</time>
+    <name>Capitole - Mairie de Toulouse</name>
+    <type>airbnb - sortie/culture</type>
+    <cmt>Amenity:Capitole de Toulouse: tourism:attraction</cmt>
+    <extensions>
+      <osmand:address>Rue de la Pomme (Capitole), Toulouse</osmand:address>
+      <osmand:icon>attraction</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#a71de1</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6045454" lon="1.4479154">
+    <time>2022-11-09T19:30:17Z</time>
+    <name>Gaumont Wilson</name>
+    <type>airbnb - sortie/culture</type>
+    <cmt>Amenity:Gaumont Wilson: entertainment:cinema</cmt>
+    <extensions>
+      <osmand:address>Place du Président Wilson (Capitole) 3, Toulouse</osmand:address>
+      <osmand:icon>amenity_cinema</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#a71de1</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.5727621" lon="1.478101">
+    <ele>146.8</ele>
+    <time>2022-10-22T19:16:18Z</time>
+    <name>Halle de La Machine</name>
+    <type>airbnb - sortie/culture</type>
+    <cmt>Amenity:Halle de La Machine: tourism:museum</cmt>
+    <extensions>
+      <osmand:address>Piste des Géants (Pont des Demoiselles, Montaudran, La Terrasse), La Terrasse</osmand:address>
+      <osmand:icon>tourism_museum</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#a71de1</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.5927899" lon="1.4513808">
+    <time>2022-10-22T19:05:58Z</time>
+    <name>Jardin des Plantes</name>
+    <type>airbnb - sortie/culture</type>
+    <cmt>Amenity:Jardin des Plantes: entertainment:park</cmt>
+    <extensions>
+      <osmand:address>Proche Allée Serge Ravanel (Saint-Agne), Toulouse</osmand:address>
+      <osmand:icon>park</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#a71de1</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6119255" lon="1.4320904">
+    <ele>136</ele>
+    <time>2022-10-22T19:28:43Z</time>
+    <name>Jardin Japonais</name>
+    <desc>https://fr.m.wikipedia.org/wiki/Jardin_japonais_de_Toulouse
+
+Risque de fermeture exceptionnelle si vent soufflant à partir de 60 km/h.
+
+
+Lundi
+De 08:00 à 18:00
+
+Mardi
+De 08:00 à 18:00
+
+Mercredi
+De 08:00 à 18:00
+
+Jeudi
+De 08:00 à 18:00
+
+Vendredi
+De 08:00 à 18:00
+
+Samedi
+De 08:00 à 18:00
+
+Dimanche
+De 08:00 à 18:00
+
+Risque de fermeture exceptionnelle si vent soufflant à partir de 60 km/h.
+Voir les horaires
+LundiDe 08:00 à 18:00
+MardiDe 08:00 à 18:00
+MercrediDe 08:00 à 18:00
+JeudiDe 08:00 à 18:00
+VendrediDe 08:00 à 18:00
+SamediDe 08:00 à 18:00
+DimancheDe 08:00 à 18:00</desc>
+    <type>airbnb - sortie/culture</type>
+    <cmt>Amenity:Jardin Japonais: entertainment:garden</cmt>
+    <extensions>
+      <osmand:address>Allée Francisco Ponzán Vidal, Toulouse</osmand:address>
+      <osmand:icon>garden</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#a71de1</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.5901285" lon="1.4593095">
+    <time>2022-10-22T19:30:37Z</time>
+    <name>Jardin Monplaisir</name>
+    <type>airbnb - sortie/culture</type>
+    <cmt>Amenity:Jardin Monplaisir: entertainment:park</cmt>
+    <extensions>
+      <osmand:address>Rue du Japon (Le Busca) 28, Saint-Agne</osmand:address>
+      <osmand:icon>park</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#a71de1</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.59988" lon="1.4545083">
+    <ele>148.5</ele>
+    <time>2022-10-22T19:22:32Z</time>
+    <name>La Halle aux Grains</name>
+    <type>airbnb - sortie/culture</type>
+    <cmt>Amenity:La Halle aux Grains: entertainment:theatre</cmt>
+    <extensions>
+      <osmand:address>Place Dominique Martin Dupuy 20B, Toulouse</osmand:address>
+      <osmand:icon>amenity_theatre</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#a71de1</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.5479493" lon="1.4856756">
+    <ele>145</ele>
+    <time>2022-11-09T19:47:32Z</time>
+    <name>Le Bikini</name>
+    <type>airbnb - sortie/culture</type>
+    <cmt>Amenity:Le Bikini: entertainment:theatre</cmt>
+    <extensions>
+      <osmand:address>D 500</osmand:address>
+      <osmand:icon>amenity_theatre</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#a71de1</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.5723773" lon="1.4781117">
+    <ele>146.8</ele>
+    <time>2022-10-22T19:16:47Z</time>
+    <name>Le Minotaure</name>
+    <type>airbnb - sortie/culture</type>
+    <cmt>Amenity:Le Minotaure: tourism:artwork</cmt>
+    <extensions>
+      <osmand:address>Piste des Géants (Pont des Demoiselles, Montaudran, La Terrasse), La Terrasse</osmand:address>
+      <osmand:icon>tourism_artwork</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#a71de1</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6009211" lon="1.4295959">
+    <ele>130</ele>
+    <time>2022-10-22T19:19:44Z</time>
+    <name>Les Abattoirs</name>
+    <type>airbnb - sortie/culture</type>
+    <cmt>Amenity:Les Abattoirs: tourism:museum</cmt>
+    <extensions>
+      <osmand:address>Allée Charles Malpel, Saint-Cyprien</osmand:address>
+      <osmand:icon>tourism_museum</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#a71de1</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.5733218" lon="1.475687">
+    <ele>147.5</ele>
+    <time>2022-10-22T19:16:38Z</time>
+    <name>Les Jardins de la Ligne</name>
+    <type>airbnb - sortie/culture</type>
+    <cmt>Amenity:Les Jardins de la Ligne: entertainment:park</cmt>
+    <extensions>
+      <osmand:address>Piste des Géants (Pont des Demoiselles, Montaudran, La Terrasse), La Terrasse</osmand:address>
+      <osmand:icon>park</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#a71de1</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6038113" lon="1.4532208">
+    <ele>144</ele>
+    <time>2022-10-22T19:21:51Z</time>
+    <name>Les Ludotines, ludothèque</name>
+    <type>airbnb - sortie/culture</type>
+    <cmt>Amenity:Saint-Aubin: education:kindergarten</cmt>
+    <extensions>
+      <osmand:address>Impasse Saint-Aubin</osmand:address>
+      <osmand:icon>kindergarten</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#a71de1</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.5736055" lon="1.4762396">
+    <ele>147.5</ele>
+    <time>2022-10-22T19:16:30Z</time>
+    <name>Manège Carré Sénart</name>
+    <type>airbnb - sortie/culture</type>
+    <cmt>Amenity:Manege Carre Senart: tourism:attraction_carousel</cmt>
+    <extensions>
+      <osmand:address>Piste des Géants (Pont des Demoiselles, Montaudran, La Terrasse), La Terrasse</osmand:address>
+      <osmand:icon>attraction_carousel</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#a71de1</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6101582" lon="1.4557958">
+    <ele>147</ele>
+    <time>2022-10-22T18:49:28Z</time>
+    <name>Médiathèque José Cabanis</name>
+    <type>airbnb - sortie/culture</type>
+    <cmt>Amenity:Mediatheque Jose Cabanis: education:library</cmt>
+    <extensions>
+      <osmand:address>Square du Lions Club International (Bonhoure), Toulouse</osmand:address>
+      <osmand:icon>amenity_library</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#a71de1</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6187454" lon="1.4205247">
+    <ele>131</ele>
+    <time>2022-10-22T19:24:53Z</time>
+    <name>Mix'art Myrys</name>
+    <type>airbnb - sortie/culture</type>
+    <cmt>Amenity:Mix'art Myrys: man_made:building</cmt>
+    <extensions>
+      <osmand:address>Rue Jacob Insel, Toulouse</osmand:address>
+      <osmand:icon>building</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#a71de1</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.593396" lon="1.4495677">
+    <time>2022-10-22T19:06:18Z</time>
+    <name>Muséum d'Histoire Naturelle</name>
+    <type>airbnb - sortie/culture</type>
+    <cmt>Amenity:Museum d'Histoire Naturelle: tourism:museum</cmt>
+    <extensions>
+      <osmand:address>Allée des Justes des Nations (Saint-Agne), Toulouse</osmand:address>
+      <osmand:icon>tourism_museum</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#a71de1</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6030421" lon="1.4425081">
+    <ele>144</ele>
+    <time>2022-10-22T18:54:57Z</time>
+    <name>Ombres Blanches</name>
+    <type>airbnb - sortie/culture</type>
+    <cmt>Amenity:Ombres Blanches: shop:books</cmt>
+    <extensions>
+      <osmand:address>Rue des Gestes 5, Capitole</osmand:address>
+      <osmand:icon>shop_books</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#a71de1</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6120847" lon="1.4627749">
+    <time>2022-10-22T19:04:18Z</time>
+    <name>Parc de l'Observatoire de Jolimont</name>
+    <type>airbnb - sortie/culture</type>
+    <cmt>Amenity:Parc de l'Observatoire de Jolimont: entertainment:park</cmt>
+    <extensions>
+      <osmand:address>Avenue Camille Flammarion (Jolimont - Soupetard - Bonhoure), Bonhoure</osmand:address>
+      <osmand:icon>park</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#a71de1</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6128693" lon="1.4604682">
+    <ele>171.8</ele>
+    <time>2022-10-22T19:04:06Z</time>
+    <name>Parc Félix Lavit</name>
+    <type>airbnb - sortie/culture</type>
+    <cmt>Amenity:Parc Felix Lavit: entertainment:park</cmt>
+    <extensions>
+      <osmand:address>Rue Urbain Le Verrier (Jolimont - Soupetard - Bonhoure) 15, Bonhoure</osmand:address>
+      <osmand:icon>park</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#a71de1</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6001481" lon="1.4300144">
+    <ele>134.8</ele>
+    <time>2022-10-22T19:19:39Z</time>
+    <name>Parc Raymond VI</name>
+    <type>airbnb - sortie/culture</type>
+    <cmt>Amenity:Parc Raymond VI: entertainment:park</cmt>
+    <extensions>
+      <osmand:address>Allées Charles de Fitte (Le Fer à Cheval) 91, Saint-Cyprien</osmand:address>
+      <osmand:icon>park</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#a71de1</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6113972" lon="1.4618415">
+    <ele>188</ele>
+    <time>2022-10-22T19:03:39Z</time>
+    <name>Point de vue</name>
+    <type>airbnb - sortie/culture</type>
+    <cmt>Amenity:: tourism:viewpoint</cmt>
+    <extensions>
+      <osmand:address>Avenue Camille Flammarion (Jolimont - Soupetard - Bonhoure) 28, Bonhoure</osmand:address>
+      <osmand:icon>tourism_viewpoint</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#a71de1</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.5953036" lon="1.4368862">
+    <time>2022-10-22T19:19:21Z</time>
+    <name>Prairie des Filtres</name>
+    <type>airbnb - sortie/culture</type>
+    <cmt>Amenity:Prairie des Filtres: entertainment:park</cmt>
+    <extensions>
+      <osmand:address>Rue Charles Laganne, Le Fer à Cheval</osmand:address>
+      <osmand:icon>park</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#a71de1</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.6021876" lon="1.4371673">
+    <time>2022-11-09T19:32:01Z</time>
+    <name>Promenade Henri-Martin</name>
+    <type>airbnb - sortie/culture</type>
+    <extensions>
+      <osmand:address>Quai Lucien Lombard (Daurade) 11, Capitole</osmand:address>
+      <osmand:icon>attraction</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#a71de1</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.5945227" lon="1.4510804">
+    <ele>144</ele>
+    <time>2022-10-22T19:06:26Z</time>
+    <name>Quai des savoirs</name>
+    <type>airbnb - sortie/culture</type>
+    <cmt>Amenity:Quai des savoirs: tourism:museum</cmt>
+    <extensions>
+      <osmand:address>Allée Matilda (Capitole), Toulouse</osmand:address>
+      <osmand:icon>tourism_museum</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#a71de1</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="43.5986835" lon="1.4537734">
+    <ele>146.8</ele>
+    <time>2022-10-22T19:06:51Z</time>
+    <name>Théâtre du Grand Rond</name>
+    <type>airbnb - sortie/culture</type>
+    <cmt>Amenity:Theatre du Grand Rond: entertainment:theatre</cmt>
+    <extensions>
+      <osmand:address>Rue des Potiers 23, Toulouse</osmand:address>
+      <osmand:icon>amenity_theatre</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#a71de1</osmand:color>
+    </extensions>
+  </wpt>
+</gpx>
