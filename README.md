@@ -4,8 +4,8 @@ Vous trouverez sur cette page une liste d'adresses utilises pour votre passage s
 
 * [Bars et restaurants](#bars-et-restaurants)
 * [Sorties](#sorties)
-** [Culture](#culture)
-** [Activités](#activités)
+  * [Culture](#culture)
+  * [Activités](#activités)
 * [Commerces](#commerces)
 * [Transports](#tranports)
 * [Santé](#santé)
