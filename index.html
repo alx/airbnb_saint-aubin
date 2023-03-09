@@ -12,6 +12,13 @@
         <style>
          body { margin: 0; padding: 0; }
          #map { position: absolute; top: 0; bottom: 0; width: 100%; }
+         .marker {
+             display: block;
+             border: none;
+             border-radius: 50%;
+             cursor: pointer;
+             padding: 0;
+         }
         </style>
         <title>Airbnb - Toulouse - Saint Aubin</title>
     </head>
@@ -28,7 +35,7 @@
          var map = new mapboxgl.Map({
              center: [1.444, 43.6055],
              container: 'map',
-             style: 'mapbox://styles/mapbox/light-v9',
+             style: 'mapbox://styles/mapbox/dark-v9',
              zoom: 13
          });
 
@@ -98,7 +105,7 @@
                  {
                      'name': 'commerces-layer',
                      'color': '#2274ba',
-                     'visibility': 'visible',
+                     'visibility': 'none',
                      'legend': '🛒 Commerces'
                  },
                  {
@@ -130,6 +137,45 @@
              for(var i = 0; i < layers.length; i++) {
                  setupLayer(map, layers[i]);
              }
+
+             // Load an image from an external URL.
+             map.loadImage(
+                 './img/home.png',
+                 (error, image) => {
+                     if (error) throw error;
+
+                     // Add the image to the map style.
+                     map.addImage('home', image);
+
+                     // Add a data source containing one point feature.
+                     map.addSource('point', {
+                         'type': 'geojson',
+                         'data': {
+                             'type': 'FeatureCollection',
+                             'features': [
+                                 {
+                                     'type': 'Feature',
+                                     'geometry': {
+                                         'type': 'Point',
+                                         'coordinates': [1.457471183875742, 43.604214231620375]
+                                     }
+                                 }
+                             ]
+                         }
+                     });
+
+                     // Add a layer to use the image to represent the data.
+                     map.addLayer({
+                         'id': 'points',
+                         'type': 'symbol',
+                         'source': 'point', // reference the data source
+                         'layout': {
+                             'icon-image': 'home', // reference the image
+                             'icon-size': 0.15
+                         }
+                     });
+                 }
+             );
 
              map.addControl(new mapboxgl.GeolocateControl());
              map.addControl( new layerControlSimple({
