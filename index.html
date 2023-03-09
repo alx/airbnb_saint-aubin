@@ -7,27 +7,11 @@
         <link rel="stylesheet" href="./dist/mapbox-layer-control/layerControl.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css"
     integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous" />
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
         <style>
          body { margin: 0; padding: 0; }
          #map { position: absolute; top: 0; bottom: 0; width: 100%; }
-
-         --dark-spring-green: #297045ff;
-         --caramel: #cb793aff;
-         --claret: #832232ff;
-         --indigo-dye: #003d5bff;
-         --amber: #ffbd00ff;
-
-         --french-blue: #2274baff;
-         --rebecca-purple: #504195ff;
-         --plum: #8b3993ff;
-         --rose: #eb3083ff;
-         --vermilion: #ed483fff;
-         --carrot-orange: #f79c3dff;
-         --saffron: #f6c73cff;
-         --yellow-green: #9bd94eff;
-         --cadet-gray: #9e9e9eff;
-         --gunmetal: #253640ff;
-
         </style>
         <title>Airbnb - Toulouse - Saint Aubin</title>
     </head>
@@ -37,7 +21,6 @@
         <script type="module">
          import { layerControlSimple } from "./dist/mapbox-layer-control/layerControlSimple.js"
          import { layerControlGrouped } from "./dist/mapbox-layer-control/layerControlGrouped.js"
-
 
          // source: https://github.com/smmaurer/geojson-web-viewer
 
@@ -65,12 +48,15 @@
                  'id': layer['name'],
                  'source': geojsonName,
                  'type': 'circle' ,
-                 'legend': layer['legend'],
+                 'metadata': {
+                     'legend': layer['legend'],
+                     'color': layer['color']
+                 },
                  'paint': {
                      'circle-color': layer['color']
                  },
                  'layout': {
-                     'visibility': 'visible'
+                     'visibility': layer['visibility']
                  }
              });
 
@@ -113,31 +99,31 @@
                      'name': 'commerces-layer',
                      'color': '#2274ba',
                      'visibility': 'visible',
-                     'legend': 'Commerces'
+                     'legend': '🛒 Commerces'
                  },
                  {
                      'name': 'culture-layer',
                      'color': '#8b3993',
                      'visibility': 'visible',
-                     'legend': 'Culture'
+                     'legend': '🖼️ Culture'
                  },
                  {
                      'name': 'resto_bars-layer',
                      'color': '#ed483f',
                      'visibility': 'visible',
-                     'legend': 'Resto/Bars'
+                     'legend': '🍽️ Resto/Bars'
                  },
                  {
                      'name': 'sante-layer',
                      'color': '#f6c73c',
                      'visibility': 'none',
-                     'legend': 'Santé'
+                     'legend': '😷 Santé'
                  },
                  {
                      'name': 'transport-layer',
                      'color': '#9e9e9e',
                      'visibility': 'none',
-                     'legend': 'Transports'
+                     'legend': '🚍 Transports'
                  }
              ]
 

@@ -29,8 +29,9 @@ class layerControlSimple {
       if (this._mapLayerIds.indexOf(layer) > -1) {
         let checked = getMapLayerVisibility(this._mapLayers, this._mapLayerIds, layer);
         let index = this._mapLayerIds.indexOf(layer);
-        let legend = (!this._mapLayers[index].legend) ? null : this._mapLayers[index].legend
-        let input = createLayerInputToggle(layer, checked, index, legend);
+        let legend = (!this._mapLayers[index].metadata.legend) ? null : this._mapLayers[index].metadata.legend
+        let color = (!this._mapLayers[index].metadata.color) ? null : this._mapLayers[index].metadata.color
+        let input = createLayerInputToggle(layer, checked, index, legend, color);
         this._div.appendChild(input)
       }
     }
@@ -77,20 +78,22 @@ function getMapLayerVisibility(layers, ids, layer) {
   return (layers[index].layout.visibility === "visible") ? true : false
 }
 
-function createLayerInputToggle(layer, checked, index, legend) {
+function createLayerInputToggle(layer, checked, index, legend, color) {
   console.log(legend)
   let div = document.createElement("div");
-  div.className = "checkbox"
+  div.className = "form-check form-switch"
   let input = document.createElement("input");
   input.name = layer;
   input.type = "checkbox"
   input.id = "layer_" + index;
-  input.className = "layer";
+  input.className = "form-check-input";
   input.style.cursor = "pointer";
+  input.style['background-color'] = color;
   if (checked) input.checked = true
   let label = document.createElement("label");
   label.innerText = layer;
   label.setAttribute("for", "layer_" + index);
+  label.className = "form-check-label";
   // label.innerHTML = (!legend) ? layer : legend + layer;
   label.innerHTML = (!legend) ? layer : legend;
   label.style.cursor = "pointer";
