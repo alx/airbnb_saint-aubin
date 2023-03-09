@@ -6,6 +6,7 @@
             "properties": {
                 "name": "Balma-Gramont",
                 "cmt": "TransportStop:Balma-Gramont",
+                "icon": "./img/poi-icons-svg/mx_amenity_bus_station.svg",
                 "type": "airbnb - transport",
                 "time": "2022-10-22T19:27:33Z"
             },
@@ -22,6 +23,7 @@
             "properties": {
                 "name": "Colombette (40)",
                 "cmt": "Amenity:Colombette: service:bicycle_rental",
+                "icon": "./img/poi-icons-svg/mx_bicycle_transport.svg",
                 "type": "airbnb - transport",
                 "time": "2022-10-22T18:58:02Z"
             },
@@ -38,6 +40,7 @@
             "properties": {
                 "name": "Dauriac - Escande (42)",
                 "cmt": "Amenity:Dauriac - Escande: service:bicycle_rental",
+                "icon": "./img/poi-icons-svg/mx_bicycle_transport.svg",
                 "type": "airbnb - transport",
                 "time": "2022-10-22T19:25:52Z"
             },
@@ -55,6 +58,7 @@
             "properties": {
                 "name": "François Verdier",
                 "cmt": "TransportStop:Francois Verdier",
+                "icon": "./img/poi-icons-svg/mx_amenity_bus_station.svg"
                 "type": "airbnb - transport",
                 "time": "2022-10-22T18:49:59Z"
             },
@@ -71,6 +75,7 @@
             "properties": {
                 "name": "Général Compans (176)",
                 "cmt": "Amenity:General Compans: service:bicycle_rental",
+                "icon": "./img/poi-icons-svg/mx_bicycle_transport.svg",
                 "type": "airbnb - transport",
                 "time": "2022-10-22T19:26:27Z"
             },
@@ -88,6 +93,7 @@
             "properties": {
                 "name": "Guilhemery",
                 "cmt": "TransportStop:Guilhemery",
+                "icon": "./img/poi-icons-svg/mx_amenity_bus_station.svg"
                 "type": "airbnb - transport",
                 "time": "2022-10-22T19:17:43Z"
             },
@@ -104,6 +110,7 @@
             "properties": {
                 "name": "Jolimont",
                 "cmt": "Amenity:Jolimont: man_made:surveillance",
+                "icon": "./img/poi-icons-svg/mx_amenity_subway_station.svg"
                 "type": "airbnb - transport",
                 "time": "2022-10-22T19:27:17Z"
             },
@@ -121,6 +128,7 @@
             "properties": {
                 "name": "Latécoère",
                 "cmt": "TransportStop:Latecoere",
+                "icon": "./img/poi-icons-svg/mx_amenity_bus_station.svg"
                 "type": "airbnb - transport",
                 "time": "2022-11-09T19:34:31Z"
             },
@@ -138,6 +146,7 @@
             "properties": {
                 "name": "Marengo-SNCF",
                 "cmt": "TransportStop:Marengo-SNCF",
+                "icon": "./img/poi-icons-svg/mx_amenity_bus_station.svg"
                 "type": "airbnb - transport",
                 "time": "2022-10-22T19:26:40Z"
             },
@@ -153,24 +162,9 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Marengo-SNCF (1)",
-                "cmt": "TransportStop:Marengo-SNCF",
-                "type": "airbnb - transport",
-                "time": "2022-11-09T19:35:49Z"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.4551252,
-                    43.6108185
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Matabiau Gare SNCF",
                 "cmt": "TransportStop:Matabiau Gare SNCF",
+                "icon": "./img/poi-icons-svg/mx_attraction_train.svg"
                 "type": "airbnb - transport",
                 "time": "2022-10-22T19:28:16Z"
             },
@@ -188,6 +182,7 @@
             "properties": {
                 "name": "Peri - Mercadier (64)",
                 "cmt": "Amenity:Peri - Mercadier: service:bicycle_rental",
+                "icon": "./img/poi-icons-svg/mx_bicycle_transport.svg",
                 "type": "airbnb - transport",
                 "time": "2022-10-22T19:26:13Z"
             },
@@ -205,6 +200,7 @@
             "properties": {
                 "name": "Piscine Leo Lagrange (63)",
                 "cmt": "Amenity:Piscine Leo Lagrange: service:bicycle_rental",
+                "icon": "./img/poi-icons-svg/mx_bicycle_transport.svg",
                 "type": "airbnb - transport",
                 "time": "2022-10-22T18:49:17Z"
             },
@@ -222,6 +218,7 @@
             "properties": {
                 "name": "Saint-Aubin - Camichel (41)",
                 "cmt": "Amenity:Saint-Aubin - Camichel: service:bicycle_rental",
+                "icon": "./img/poi-icons-svg/mx_bicycle_transport.svg",
                 "type": "airbnb - transport",
                 "time": "2022-11-09T19:42:41Z"
             },
@@ -239,6 +236,7 @@
             "properties": {
                 "name": "Toulouse Gare Routière",
                 "cmt": "TransportStop:Toulouse Gare Routiere",
+                "icon": "./img/poi-icons-svg/mx_amenity_bus_station.svg"
                 "type": "airbnb - transport",
                 "time": "2022-10-22T19:28:05Z"
             },
