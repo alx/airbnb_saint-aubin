@@ -6,6 +6,7 @@
             "properties": {
                 "name": "American Cosmograph",
                 "cmt": "Amenity:American Cosmograph: entertainment:cinema",
+                "icon": "mx_amenity_cinema",
                 "type": "airbnb - sortie/culture",
                 "time": "2022-10-22T19:29:51Z"
             },
@@ -21,6 +22,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Basilique Saint-Sernin",
+                "icon": "mx_building_type_basilica",
                 "cmt": "Amenity:Basilique Saint-Sernin: tourism:place_of_worship",
                 "type": "airbnb - sortie/culture",
                 "time": "2022-10-22T19:29:05Z"
@@ -37,6 +39,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Bibliothèque de quartier - Duranti",
+                "icon": "mx_amenity_library",
                 "cmt": "Amenity:Bibliotheque de quartier - Duranti: education:library",
                 "type": "airbnb - sortie/culture",
                 "time": "2022-11-09T19:30:32Z"
@@ -54,6 +57,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Capitole - Mairie de Toulouse",
+                "icon": "mx_tourism_attraction",
                 "cmt": "Amenity:Capitole de Toulouse: tourism:attraction",
                 "type": "airbnb - sortie/culture",
                 "time": "2022-10-22T19:29:30Z"
@@ -71,6 +75,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Gaumont Wilson",
+                "icon": "mx_amenity_cinema",
                 "cmt": "Amenity:Gaumont Wilson: entertainment:cinema",
                 "type": "airbnb - sortie/culture",
                 "time": "2022-11-09T19:30:17Z"
@@ -87,6 +92,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Halle de La Machine",
+                "icon": "mx_tourism_attraction",
                 "cmt": "Amenity:Halle de La Machine: tourism:museum",
                 "type": "airbnb - sortie/culture",
                 "time": "2022-10-22T19:16:18Z"
@@ -104,6 +110,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Jardin des Plantes",
+                "icon": "mx_garden",
                 "cmt": "Amenity:Jardin des Plantes: entertainment:park",
                 "type": "airbnb - sortie/culture",
                 "time": "2022-10-22T19:05:58Z"
@@ -120,6 +127,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Jardin Japonais",
+                "icon": "mx_garden",
                 "cmt": "Amenity:Jardin Japonais: entertainment:garden",
                 "desc": "https://fr.m.wikipedia.org/wiki/Jardin_japonais_de_Toulouse\n\nRisque de fermeture exceptionnelle si vent soufflant à partir de 60 km/h.\n\n\nLundi\nDe 08:00 à 18:00\n\nMardi\nDe 08:00 à 18:00\n\nMercredi\nDe 08:00 à 18:00\n\nJeudi\nDe 08:00 à 18:00\n\nVendredi\nDe 08:00 à 18:00\n\nSamedi\nDe 08:00 à 18:00\n\nDimanche\nDe 08:00 à 18:00\n\nRisque de fermeture exceptionnelle si vent soufflant à partir de 60 km/h.\nVoir les horaires\nLundiDe 08:00 à 18:00\nMardiDe 08:00 à 18:00\nMercrediDe 08:00 à 18:00\nJeudiDe 08:00 à 18:00\nVendrediDe 08:00 à 18:00\nSamediDe 08:00 à 18:00\nDimancheDe 08:00 à 18:00",
                 "type": "airbnb - sortie/culture",
@@ -138,6 +146,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Jardin Monplaisir",
+                "icon": "mx_garden",
                 "cmt": "Amenity:Jardin Monplaisir: entertainment:park",
                 "type": "airbnb - sortie/culture",
                 "time": "2022-10-22T19:30:37Z"
@@ -154,6 +163,7 @@
             "type": "Feature",
             "properties": {
                 "name": "La Halle aux Grains",
+                "icon": "mx_music",
                 "cmt": "Amenity:La Halle aux Grains: entertainment:theatre",
                 "type": "airbnb - sortie/culture",
                 "time": "2022-10-22T19:22:32Z"
@@ -171,6 +181,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Le Bikini",
+                "icon": "mx_music",
                 "cmt": "Amenity:Le Bikini: entertainment:theatre",
                 "type": "airbnb - sortie/culture",
                 "time": "2022-11-09T19:47:32Z"
@@ -187,24 +198,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Le Minotaure",
-                "cmt": "Amenity:Le Minotaure: tourism:artwork",
-                "type": "airbnb - sortie/culture",
-                "time": "2022-10-22T19:16:47Z"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.4781117,
-                    43.5723773,
-                    146.8
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Les Abattoirs",
+                "icon": "mx_tourism_museum",
                 "cmt": "Amenity:Les Abattoirs: tourism:museum",
                 "type": "airbnb - sortie/culture",
                 "time": "2022-10-22T19:19:44Z"
@@ -222,6 +217,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Les Jardins de la Ligne",
+                "icon": "mx_garden",
                 "cmt": "Amenity:Les Jardins de la Ligne: entertainment:park",
                 "type": "airbnb - sortie/culture",
                 "time": "2022-10-22T19:16:38Z"
@@ -239,6 +235,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Les Ludotines, ludothèque",
+                "icon": "mx_leisure_playground",
                 "cmt": "Amenity:Saint-Aubin: education:kindergarten",
                 "type": "airbnb - sortie/culture",
                 "time": "2022-10-22T19:21:51Z"
@@ -256,6 +253,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Manège Carré Sénart",
+                "icon": "mx_leisure_playground",
                 "cmt": "Amenity:Manege Carre Senart: tourism:attraction_carousel",
                 "type": "airbnb - sortie/culture",
                 "time": "2022-10-22T19:16:30Z"
@@ -273,6 +271,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Médiathèque José Cabanis",
+                "icon": "mx_amenity_library",
                 "cmt": "Amenity:Mediatheque Jose Cabanis: education:library",
                 "type": "airbnb - sortie/culture",
                 "time": "2022-10-22T18:49:28Z"
@@ -289,24 +288,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Mix'art Myrys",
-                "cmt": "Amenity:Mix'art Myrys: man_made:building",
-                "type": "airbnb - sortie/culture",
-                "time": "2022-10-22T19:24:53Z"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.4205247,
-                    43.6187454,
-                    131
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Muséum d'Histoire Naturelle",
+                "icon": "mx_tourism_museum",
                 "cmt": "Amenity:Museum d'Histoire Naturelle: tourism:museum",
                 "type": "airbnb - sortie/culture",
                 "time": "2022-10-22T19:06:18Z"
@@ -323,6 +306,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Ombres Blanches",
+                "icon": "mx_amenity_library",
                 "cmt": "Amenity:Ombres Blanches: shop:books",
                 "type": "airbnb - sortie/culture",
                 "time": "2022-10-22T18:54:57Z"
@@ -340,6 +324,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Parc de l'Observatoire de Jolimont",
+                "icon": "mx_garden",
                 "cmt": "Amenity:Parc de l'Observatoire de Jolimont: entertainment:park",
                 "type": "airbnb - sortie/culture",
                 "time": "2022-10-22T19:04:18Z"
@@ -356,6 +341,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Parc Félix Lavit",
+                "icon": "mx_garden",
                 "cmt": "Amenity:Parc Felix Lavit: entertainment:park",
                 "type": "airbnb - sortie/culture",
                 "time": "2022-10-22T19:04:06Z"
@@ -373,6 +359,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Parc Raymond VI",
+                "icon": "mx_garden",
                 "cmt": "Amenity:Parc Raymond VI: entertainment:park",
                 "type": "airbnb - sortie/culture",
                 "time": "2022-10-22T19:19:39Z"
@@ -390,6 +377,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Point de vue",
+                "icon": "mx_garden",
                 "cmt": "Amenity:: tourism:viewpoint",
                 "type": "airbnb - sortie/culture",
                 "time": "2022-10-22T19:03:39Z"
@@ -407,6 +395,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Prairie des Filtres",
+                "icon": "mx_garden",
                 "cmt": "Amenity:Prairie des Filtres: entertainment:park",
                 "type": "airbnb - sortie/culture",
                 "time": "2022-10-22T19:19:21Z"
@@ -423,6 +412,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Promenade Henri-Martin",
+                "icon": "mx_garden",
                 "type": "airbnb - sortie/culture",
                 "time": "2022-11-09T19:32:01Z"
             },
@@ -438,6 +428,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Quai des savoirs",
+                "icon": "mx_tourism_museum",
                 "cmt": "Amenity:Quai des savoirs: tourism:museum",
                 "type": "airbnb - sortie/culture",
                 "time": "2022-10-22T19:06:26Z"
@@ -455,6 +446,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Théâtre du Grand Rond",
+                "icon": "mx_amenity_theatre",
                 "cmt": "Amenity:Theatre du Grand Rond: entertainment:theatre",
                 "type": "airbnb - sortie/culture",
                 "time": "2022-10-22T19:06:51Z"

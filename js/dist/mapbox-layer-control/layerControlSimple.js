@@ -21,8 +21,6 @@ class layerControlSimple {
     this._mapLayers = this._map.getStyle().layers;
     this._mapLayerIds = getMapLayerIds(this._mapLayers);
 
-    console.log(this._mapLayers)
-
     for (let i = 0; i < this._layers.length; i++) {
       let layer = this._layers[i];
       // console.log(this._mapLayerIds.indexOf(layer))
@@ -79,7 +77,7 @@ function getMapLayerVisibility(layers, ids, layer) {
 }
 
 function createLayerInputToggle(layer, checked, index, legend, color) {
-  console.log(legend)
+  // console.log(legend)
   let div = document.createElement("div");
   div.className = "form-check form-switch"
   let input = document.createElement("input");

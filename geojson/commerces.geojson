@@ -5,6 +5,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Boucherie Filhos Jérôme",
+                "icon": "mx_shop_butcher",
                 "cmt": "Amenity:Boucherie Filhos Jerome: shop:butcher",
                 "type": "airnnb - commerce",
                 "time": "2022-10-22T18:48:27Z"
@@ -22,6 +23,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Boucherie Saint-Aubin",
+                "icon": "mx_shop_butcher",
                 "cmt": "Amenity:Boucherie Saint-Aubin: shop:butcher",
                 "type": "airnnb - commerce",
                 "time": "2022-10-22T19:11:52Z"
@@ -38,6 +40,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Carrefour City",
+                "icon": "mx_shop_supermarket",
                 "cmt": "Amenity:Carrefour City: shop:supermarket",
                 "type": "airnnb - commerce",
                 "time": "2022-10-22T18:47:58Z"
@@ -54,6 +57,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Ceci & cela",
+                "icon": "mx_shop",
                 "cmt": "Amenity:Ceci & cela: shop:convenience",
                 "type": "airnnb - commerce",
                 "time": "2022-10-22T18:54:27Z"
@@ -71,6 +75,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Espace Gramont",
+                "icon": "mx_shop_mall",
                 "cmt": "Amenity:Espace Gramont: shop:mall",
                 "type": "airnnb - commerce",
                 "time": "2022-10-22T19:27:39Z"
@@ -88,6 +93,7 @@
             "type": "Feature",
             "properties": {
                 "name": "La Glanerie",
+                "icon": "mx_shop",
                 "cmt": "Amenity:La Glanerie: shop:charity",
                 "type": "airnnb - commerce",
                 "time": "2022-10-22T19:02:16Z"
@@ -105,6 +111,7 @@
             "type": "Feature",
             "properties": {
                 "name": "La Halle aux Pains",
+                "icon": "mx_shop_bakery",
                 "cmt": "Amenity:La Halle aux Pains: shop:bakery",
                 "type": "airnnb - commerce",
                 "time": "2022-10-22T19:07:33Z"
@@ -121,6 +128,7 @@
             "type": "Feature",
             "properties": {
                 "name": "La Pétrie",
+                "icon": "mx_shop_bakery",
                 "cmt": "Amenity:La Petrie: shop:bakery",
                 "type": "airnnb - commerce",
                 "time": "2022-10-22T19:01:28Z"
@@ -137,6 +145,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Le Panier d'Or",
+                "icon": "mx_shop_greengrocer",
                 "cmt": "Amenity:Le Panier d'Or: shop:greengrocer",
                 "type": "airnnb - commerce",
                 "time": "2022-10-22T19:02:55Z"
@@ -154,6 +163,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Le Recantou",
+                "icon": "mx_shop_greengrocer",
                 "cmt": "Amenity:Le Recantou: shop:convenience",
                 "type": "airnnb - commerce",
                 "time": "2022-10-22T18:50:41Z"
@@ -170,6 +180,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Lidl",
+                "icon": "mx_shop_supermarket",
                 "cmt": "Amenity:Lidl: shop:supermarket",
                 "type": "airnnb - commerce",
                 "time": "2022-10-22T19:30:18Z"
@@ -187,6 +198,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Marché Saint-Aubin",
+                "icon": "mx_amenity_marketplace",
                 "cmt": "Amenity:Marche Saint-Aubin: shop:marketplace",
                 "type": "airnnb - commerce",
                 "time": "2022-10-22T19:13:01Z"
@@ -204,6 +216,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Saint Aubin Services Plus",
+                "icon": "mx_shop_copyshop",
                 "cmt": "Amenity:Saint Aubin Services Plus: service:copyshop",
                 "type": "airnnb - commerce",
                 "time": "2022-10-22T19:11:22Z"
@@ -220,6 +233,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Spar",
+                "icon": "mx_shop_supermarket",
                 "cmt": "Amenity:Spar: shop:supermarket",
                 "type": "airnnb - commerce",
                 "time": "2022-10-22T19:12:22Z"
@@ -236,6 +250,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Xavier et marie",
+                "icon": "mx_shop_dairy",
                 "cmt": "Amenity:Xavier et marie: shop:cheese",
                 "type": "airnnb - commerce",
                 "time": "2022-10-22T19:07:50Z"

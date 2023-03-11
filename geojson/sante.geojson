@@ -6,9 +6,9 @@
             "properties": {
                 "name": "Pharmacie Colombette",
                 "cmt": "Amenity:Pharmacie Colombette: healthcare:pharmacy",
+                "icon": "mx_amenity_pharmacy",
                 "type": "airbnb - santé",
-                "time": "2022-10-22T19:12:06Z",
-		"marker-symbol": "1"
+                "time": "2022-10-22T19:12:06Z"
             },
             "geometry": {
                 "type": "Point",
@@ -23,9 +23,9 @@
             "properties": {
                 "name": "Dentiste",
                 "cmt": "Amenity:: healthcare:dentist",
+                "icon": "mx_amenity_dentist",
                 "type": "airbnb - santé",
-                "time": "2022-10-22T19:10:42Z",
-		"marker-symbol": "2"
+                "time": "2022-10-22T19:10:42Z"
             },
             "geometry": {
                 "type": "Point",
@@ -40,9 +40,9 @@
             "properties": {
                 "name": "Laboratoire de Biologie Médicale Biolab Avenir La Halle",
                 "cmt": "Amenity:Laboratoire de Biologie Medicale Biolab Avenir La Halle: healthcare:laboratory",
+                "icon": "mx_laboratory",
                 "type": "airbnb - santé",
-                "time": "2022-10-22T19:09:45Z",
-		"marker-symbol": "3"
+                "time": "2022-10-22T19:09:45Z"
             },
             "geometry": {
                 "type": "Point",
