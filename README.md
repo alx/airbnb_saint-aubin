@@ -1,5 +1,9 @@
 # AirBnb - Toulouse Saint-Aubin
 
+[Voir la carte en ligne](https://alx.github.io/airbnb_saint-aubin/)
+
+![Screenshot](./img/2023-04-08-12-37-02.png)
+
 Vous trouverez sur cette page une liste d'adresses utiles pour votre passage sur Toulouse:
 
 * [Bars et restaurants](#bars-et-restaurants)
